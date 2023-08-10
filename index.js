@@ -1,0 +1,1 @@
+console.log("olá mundo, estou aprendendo a usar o git cli")
