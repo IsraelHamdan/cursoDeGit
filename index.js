@@ -1,1 +1,6 @@
-console.log("olá mundo, estou aprendendo a usar o git cli")
+var idade = 18; 
+function validity(idade) {
+  if (idade >= 18) {
+    console.log('Acesso permitido')
+  }
+}
